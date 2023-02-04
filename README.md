@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">𝐙𝐚𝐢𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
+<p align="center">TOXIC USERBOT 🔥 </p>
 
 - A First Telegram Userbot Project With Multi Clients Based On PyroGram
 
@@ -10,7 +10,7 @@
 
 ## Repo Stats
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=HATERS_PAPA_BOPTE&repo=TOXIC-USERBOT&theme=dark)
 
 
 ## Requirements 
@@ -22,7 +22,7 @@
 
 ## String Session
 
-<p align="center"><a href="https://replit.com/@Itz-zaid/pyrogram"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://replit.com/@Itz-TOXIC/pyrogram"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 
 ## 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓𝐒
@@ -49,18 +49,18 @@
 
 I will suggest to host on mogenius if uh don't know what is this then 
 Checkout Tutorial!
-<p align="center"><a href="https://youtu.be/qXT1jl60okk"> <img src="https://img.shields.io/badge/ZaidUserBot%20Deploy-black?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://youtu.be/qXT1jl60okk"> <img src="https://img.shields.io/badge/ToxicUserBot%20Deploy-black?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
 
 
 ## VPS/Locally deploy!
 ```console
-Zaid@Debian~ $ apt-get -y update
-Zaid@Debian~ $ apt-get -y install git gcc python3-pip -y
-Zaid@Debian~ $ git clone https://github.com/ITZ-ZAID/ZAID-USERBOT
-Zaid@Debian~ $ cd ZAID-USERBOT
-Zaid@Debian~ $ pip3 install -U -r requirements.txt
-Zaid@Debian~ $ cp sample.env .env
-Zaid@Debian~ $ nano .env
+Toxic@Debian~ $ apt-get -y update
+Toxic@Debian~ $ apt-get -y install git gcc python3-pip -y
+Toxic@Debian~ $ git clone https://github.com/ITZ-TOXIC/TOXIC-USERBOT
+Toxic@Debian~ $ cd TOXIC-USERBOT
+Toxic@Debian~ $ pip3 install -U -r requirements.txt
+Toxic@Debian~ $ cp sample.env .env
+Toxic@Debian~ $ nano .env
 ```
 
 <h3 align="center">
@@ -68,8 +68,8 @@ Zaid@Debian~ $ nano .env
 </h3>
 
 ```console
-Zaid@Debian~ $ screen
-Zaid@Debian~ $ python3 -m Zaid
+Toxic@Debian~ $ screen
+Toxic@Debian~ $ python3 -m Zaid
 ```
 
 ## Disclaimer 
