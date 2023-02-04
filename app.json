@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Userbot",
+    "name": "TOXIC USERBOT",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Userbot",
+    "repository": "https://github.com/ITZ-TOXIC/Toxic-Userbot",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
